@@ -1,42 +1,40 @@
 # Vamsi-Chilukuri
 
-## Hello,
-
 I'm a Full Stack Developer 
 
-- Frontend Technologies 
+## Frontend Technologies 
         ▪️HTML
         ▪️CSS
         ▪️JavaScript 
 
-- Frameworks
+## Frameworks
         ▪️Angular 
         ▪️React 
 
-- Backend Technologies
+## Backend Technologies
         ▪️Node.js 
         ▪️Express.js
 
-- Databases
+## Databases
         ▪️MongoDB 
         ▪️MySQL 
 
-- DevOps tools 
+## DevOps tools 
         ▪️Docker
         ▪️Kubernetes
 
-- Cloud 
+## Cloud 
         ▪️AWS
         ▪️DigitalOcean 
 
-- Web server
+## Web server
         ▪️Nginx
 
-- Operating System's
+## Operating System's
         ▪️Linux ( Ubuntu ) 
         ▪️Windows 
 
-- version control system 
+## version control system 
         ▪️ Git
 
 __________________________________________
