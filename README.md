@@ -51,7 +51,7 @@ good at
 
 I'm interested to join if any of the company gives support on these.
 __________________________________________
-1 year of experience. 
+1+ years of experience. 
 
 I'm capable of working in Frontend Technologies with Angular and React.js, Backend Technologies - Node.js and express.js, Database - MongoDB and MySQL. DevOps tools Docker and Kubernetes. Cloud platforms AWS and DigitalOcean .
 - strong knowledge on dockerizing FE and BE apps.
