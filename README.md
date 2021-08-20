@@ -38,7 +38,7 @@ I'm a Full Stack Developer
         ▪️ Git
 
 __________________________________________
-** Blockchain **
+## Blockchain
 learning solidity and web3.js
 
 to write smart contracts and implementing web3 to interact with smart contracts. 
