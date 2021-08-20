@@ -61,5 +61,5 @@ I'm capable of working in Frontend Technologies with Angular and React.js, Backe
 - production deployment FE and BE on server with nginx, pm2 and adding ssl to domains.
 - setting up the master/slave replicaset with mongoDB for disaster recovery.
 
-- Github Profile 
-www.github.com/vamsichilukuri/
+- LinkedIn Profile
+https://www.linkedin.com/in/vamsi-chilukuri-897b15197/
