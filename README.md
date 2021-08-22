@@ -39,7 +39,11 @@ I'm a Full Stack Developer
 
 __________________________________________
 ## Blockchain
-learning solidity and web3.js
+learning solidity.
+### Tools:
+- truffle
+- ganache
+- web3.js
 
 to write smart contracts and implementing web3 to interact with smart contracts. 
 
